@@ -125,7 +125,7 @@ func _cycle_lighting() -> void:
  var sun_energies := [.43,.15,.70]
  scene_environment.ambient_light_energy = energies[lighting_mode]
  daylight.light_energy = sun_energies[lighting_mode]
- var preset := ["Warm electric afternoon", "Evening lamps", "Bright inspection mode"][lighting_mode]
+ var preset: String = ["Warm electric afternoon", "Evening lamps", "Bright inspection mode"][lighting_mode]
  print("TITANIC LIGHTING: " + preset)
 
 func _save_screenshot() -> void:
