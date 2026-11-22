@@ -1,0 +1,87 @@
+{
+  "staircase": {
+    "meshes": 23,
+    "triangles": 29096,
+    "bytes": 655768
+  },
+  "lounge": {
+    "meshes": 29,
+    "triangles": 36620,
+    "bytes": 840688
+  },
+  "dining": {
+    "meshes": 19,
+    "triangles": 54184,
+    "bytes": 1204824
+  },
+  "library": {
+    "meshes": 30,
+    "triangles": 43148,
+    "bytes": 962360
+  },
+  "cafe": {
+    "meshes": 20,
+    "triangles": 47728,
+    "bytes": 1019116
+  },
+  "cabin": {
+    "meshes": 19,
+    "triangles": 24664,
+    "bytes": 572080
+  },
+  "suite": {
+    "meshes": 21,
+    "triangles": 29020,
+    "bytes": 676080
+  },
+  "reception": {
+    "meshes": 30,
+    "triangles": 36080,
+    "bytes": 814952
+  },
+  "bridge": {
+    "meshes": 15,
+    "triangles": 17608,
+    "bytes": 429500
+  },
+  "pool": {
+    "meshes": 15,
+    "triangles": 12428,
+    "bytes": 304616
+  },
+  "bath": {
+    "meshes": 15,
+    "triangles": 15864,
+    "bytes": 346844
+  },
+  "machine": {
+    "meshes": 7,
+    "triangles": 16044,
+    "bytes": 338784
+  },
+  "service": {
+    "meshes": 17,
+    "triangles": 14148,
+    "bytes": 337636
+  },
+  "cargo": {
+    "meshes": 10,
+    "triangles": 2744,
+    "bytes": 70556
+  },
+  "promenade": {
+    "meshes": 16,
+    "triangles": 26668,
+    "bytes": 596724
+  },
+  "office": {
+    "meshes": 21,
+    "triangles": 23248,
+    "bytes": 545580
+  },
+  "gym": {
+    "meshes": 17,
+    "triangles": 15780,
+    "bytes": 357928
+  }
+}
